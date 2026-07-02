@@ -2,6 +2,8 @@
 
 ## July 2nd
 
+### Brainstorming
+
 Spend around 1 hour brainstorming (with my brother and my friend lmao) about the features that my keyboard will have:
 
 1. A macro column on the left side
@@ -22,16 +24,31 @@ Where and why it is use?
 
 3. Physical Aesthetics & Switches
 
-Switches: High-quality Tactile/Linear switches (e.g., Boba U4T or similar).
+- Aesthetic: I am going for a sleeker catppuccin mocha kind of look on my keyboard
+
+- Switches: High-quality Tactile/Linear switches (e.g., Boba U4T or similar).
 
 > I love the sound of linear switches, but I still yearn for the distinct physical bump felt when pressing tactile switches.
 
-Keycaps: White blank DSA keycaps (?)
+- Keycaps: White blank DSA keycaps (?)
 
-Underglow: SK6812 MINI-E addressable RGB LEDs for a subtle ambient glow.
+- Underglow: SK6812 MINI-E addressable RGB LEDs for a subtle ambient glow.
 
 > Damn formatting all my thoughts into 1 clear information really took around 10 mins sheesh.
 
-### The physical Layout
+### The physical Layout design
 
-> Now I will be working on the physical layout
+> Aint no way i just spent 1+ hour on something as simple as this bro 😭🥲
+
+1st prototype 
+<img width="1187" height="467" alt="image" src="https://github.com/user-attachments/assets/d7e419f2-c18e-44cb-bcd0-c2af9bd134be" />
+
+> I think I nailed the catppuccin aesthetics, but idk how
+> Btw I forgot to upload it here the 1st prototype, since I normally send it to my whatsapp for storage... 😅
+
+Final draft (?)
+<img width="1188" height="463" alt="image" src="https://github.com/user-attachments/assets/bf3cc242-4457-4134-ad38-d62d5d8173f5" />
+
+> I feel like the 1st prototype had too little colour variation, and also I forgot to add the Oled display, and I also edited the keys label (?) to be in various locations depending on the location of each individual key lmao
+
+
