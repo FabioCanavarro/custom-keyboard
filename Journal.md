@@ -59,4 +59,6 @@ Where and why it is use?
 
 ## Designing the PCB (July 2nd and 3rd)
 
-> Gonna work on it rn
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/8654a598-c914-4b94-8352-ddfbb7e4e727" />
+
+> I just got the 4 basic thing placed and installed some plugins along the way heheheh
