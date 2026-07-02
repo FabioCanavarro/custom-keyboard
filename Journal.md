@@ -62,3 +62,10 @@ Where and why it is use?
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/8654a598-c914-4b94-8352-ddfbb7e4e727" />
 
 > I just got the 4 basic thing placed and installed some plugins along the way heheheh
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/6c728a69-4faf-4a3b-934a-d4678aaa3ec5" />
+
+Its been 32 Minutes
+
+> I Finished it halfway then I realized, I was placing buses and not wires, that's why it wasn't connecting...
+
