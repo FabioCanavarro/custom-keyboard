@@ -1,8 +1,6 @@
 # Journal
 
-## July 2nd
-
-### Brainstorming
+## Brainstorming (July 2nd)
 
 Spend around 1 hour brainstorming (with my brother and my friend lmao) about the features that my keyboard will have:
 
@@ -36,21 +34,29 @@ Where and why it is use?
 
 > Damn formatting all my thoughts into 1 clear information really took around 10 mins sheesh.
 
-### The physical Layout design
+---
+
+## The physical Layout design (July 2nd)
 
 > Aint no way i just spent 1+ hour on something as simple as this bro 😭🥲
 
-1st prototype 
+### 1st prototype 
+
 <img width="1187" height="467" alt="image" src="https://github.com/user-attachments/assets/d7e419f2-c18e-44cb-bcd0-c2af9bd134be" />
 
 > I think I nailed the catppuccin aesthetics, but idk how
 > Btw I forgot to upload it here the 1st prototype, since I normally send it to my whatsapp for storage... 😅
 
-Final draft (?)
+### Final draft (?)
+
 <img width="1188" height="463" alt="image" src="https://github.com/user-attachments/assets/bf3cc242-4457-4134-ad38-d62d5d8173f5" />
 
 > OLED Screen is not to scale (Idk how to get the measurement of 0.91")
 
 > I feel like the 1st prototype had too little colour variation, and also I forgot to add the Oled display, and I also edited the keys label (?) to be in various locations depending on the location of each individual key lmao
 
+---
 
+## Designing the PCB (July 2nd and 3rd)
+
+> Gonna work on it rn
