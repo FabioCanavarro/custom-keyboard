@@ -92,3 +92,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/164b28e4-5fcb-4d04-a7ee-4ce6067c0df3" />
 
 > I finally routed everything, like my schematic was wrong from the very beginning, I didn't account for the fact that some keys took more space than others in the same row, leading to less keys in the row
+
+<img width="2557" height="1595" alt="image" src="https://github.com/user-attachments/assets/1190ef23-6332-4b09-a510-68d7ad478eb0" />
+
+> Finished routing all the pins
