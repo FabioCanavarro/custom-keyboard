@@ -72,4 +72,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/22f280f1-4e0f-4693-81a2-019550323794" />
 
 > Its the day after, I added some things in 5 minute, I shall put it here to start the time recording of today lmao
-> 
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/d84fac1d-e2bc-49d2-bcb5-70f4affd049a" />
+
+> Updated footprint and updated pcb from schematic
