@@ -80,3 +80,12 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/361e601b-7097-4a81-adac-cf4f0c7330b5" />
 
 > Just realized I got 73 keys not 80...
+
+<img width="2557" height="1598" alt="image" src="https://github.com/user-attachments/assets/624799bc-d01b-4e5f-86eb-147ad79fd53b" />
+
+> Since kicad-kbplacer is allowed
+
+<img width="273" height="198" alt="image" src="https://github.com/user-attachments/assets/b1c6c739-0e94-4094-9150-26ec9ff3d9f2" />
+
+> I used kicad-kbplacer to speed up the placing of the keys with little to no error, then comes the hard part, I did not know how much gap to give anything. So I firstly tried to put it however I see fit, then after trying a lot of measurement, I realized all this time, I could've just used the ruler tool and alter the specific x,y coordinates instead of using my intuition...
+
