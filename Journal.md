@@ -76,3 +76,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/d84fac1d-e2bc-49d2-bcb5-70f4affd049a" />
 
 > Updated footprint and updated pcb from schematic
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/361e601b-7097-4a81-adac-cf4f0c7330b5" />
+
+> Just realized I got 73 keys not 80...
