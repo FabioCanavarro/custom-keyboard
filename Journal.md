@@ -69,3 +69,7 @@ Its been 32 Minutes
 
 > I Finished it halfway then I realized, I was placing buses and not wires, that's why it wasn't connecting...
 
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/22f280f1-4e0f-4693-81a2-019550323794" />
+
+> Its the day after, I added some things in 5 minute, I shall put it here to start the time recording of today lmao
+> 
