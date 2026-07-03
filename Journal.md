@@ -89,3 +89,6 @@ Its been 32 Minutes
 
 > I used kicad-kbplacer to speed up the placing of the keys with little to no error, then comes the hard part, I did not know how much gap to give anything. So I firstly tried to put it however I see fit, then after trying a lot of measurement, I realized all this time, I could've just used the ruler tool and alter the specific x,y coordinates instead of using my intuition...
 
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/164b28e4-5fcb-4d04-a7ee-4ce6067c0df3" />
+
+> I finally routed everything, like my schematic was wrong from the very beginning, I didn't account for the fact that some keys took more space than others in the same row, leading to less keys in the row
