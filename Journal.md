@@ -132,3 +132,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/8aa3acb7-07b1-43be-b4ee-909604f4a32d" />
 
 > Damn Extruding it makes it look fancy
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/61039f0d-6261-4da9-9548-dca7d967f244" />
+
+> Built the base floor finally bruh, Like onshape just keeps throwing random error msg at me
