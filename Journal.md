@@ -104,3 +104,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/fdcb8af1-f832-4c3d-b69a-29e40cb412cc" />
 
 > Only this far in did I realize how much I messed up my schematic routing lmao, thats why it took a long time
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/578bff63-e3eb-43ee-9751-64d982bbb3c6" />
+
+> I am so cooked 😭
