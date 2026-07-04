@@ -116,3 +116,8 @@ Its been 32 Minutes
 <img width="1922" height="1368" alt="image" src="https://github.com/user-attachments/assets/26888882-30b5-4956-aed7-5ed6dcb5d3ce" />
 
 > Now editing it in onshape
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/ad78f666-788d-47ad-8c3e-57237e14074e" />
+
+> Finally finished the switch plate
+
