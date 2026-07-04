@@ -111,4 +111,8 @@ Its been 32 Minutes
 
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/9c6c9922-e47f-4902-ac74-a526a8069659" />
 
-> Anddd, Fixed all error 
+> Anddd, Fixed all error
+
+<img width="1922" height="1368" alt="image" src="https://github.com/user-attachments/assets/26888882-30b5-4956-aed7-5ed6dcb5d3ce" />
+
+> Now editing it in onshape
