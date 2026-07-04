@@ -96,3 +96,7 @@ Its been 32 Minutes
 <img width="2557" height="1595" alt="image" src="https://github.com/user-attachments/assets/1190ef23-6332-4b09-a510-68d7ad478eb0" />
 
 > Finished routing all the pins
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/aedd19f9-6dc7-430f-b8a3-ecc1a2217e0c" />
+
+> Clocking in for today, Now I will start Connecting the pins
