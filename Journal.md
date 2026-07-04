@@ -108,3 +108,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/578bff63-e3eb-43ee-9751-64d982bbb3c6" />
 
 > I am so cooked 😭
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/9c6c9922-e47f-4902-ac74-a526a8069659" />
+
+> Anddd, Fixed all error 
