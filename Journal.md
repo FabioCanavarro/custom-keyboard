@@ -128,3 +128,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/b9c85660-4b92-493e-891e-6de1ac3b3fd7" />
 
 > Came back, spent 10 minute aligning it, by coordinate shifts hehehe
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/8aa3acb7-07b1-43be-b4ee-909604f4a32d" />
+
+> Damn Extruding it makes it look fancy
