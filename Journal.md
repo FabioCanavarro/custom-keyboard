@@ -136,3 +136,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/61039f0d-6261-4da9-9548-dca7d967f244" />
 
 > Built the base floor finally bruh, Like onshape just keeps throwing random error msg at me
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/3c70f0ed-c79d-4f7c-8ea9-64cff8d02adc" />
+
+> 3d model is genuienly the hardest part, imma just rest for now
