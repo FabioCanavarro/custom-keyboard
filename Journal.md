@@ -100,3 +100,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/aedd19f9-6dc7-430f-b8a3-ecc1a2217e0c" />
 
 > Clocking in for today, Now I will start Connecting the pins
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/fdcb8af1-f832-4c3d-b69a-29e40cb412cc" />
+
+> Only this far in did I realize how much I messed up my schematic routing lmao, thats why it took a long time
