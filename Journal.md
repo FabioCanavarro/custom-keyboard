@@ -124,3 +124,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/d926b39d-d9d9-4d55-b4e9-3c799ad13ea2" />
 
 > Aligning Is hard as hell (gonna go take a break)
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/b9c85660-4b92-493e-891e-6de1ac3b3fd7" />
+
+> Came back, spent 10 minute aligning it, by coordinate shifts hehehe
