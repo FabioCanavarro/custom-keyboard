@@ -121,3 +121,6 @@ Its been 32 Minutes
 
 > Finally finished the switch plate
 
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/d926b39d-d9d9-4d55-b4e9-3c799ad13ea2" />
+
+> Aligning Is hard as hell (gonna go take a break)
