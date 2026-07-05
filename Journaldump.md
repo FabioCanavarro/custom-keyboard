@@ -2,7 +2,7 @@
 
 ## Brainstorming (July 2nd)
 
-Spend around 1 hour brainstorming (with my brother and my friend lmao) about the features that my keyboard will have:
+Spent around 1 hour brainstorming (with my brother and my friend lmao) about the features that my keyboard will have:
 
 1. A macro column on the left side
 
