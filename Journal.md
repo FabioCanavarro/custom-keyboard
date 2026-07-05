@@ -147,4 +147,8 @@ Its been 32 Minutes
 
 <img width="2557" height="1597" alt="image" src="https://github.com/user-attachments/assets/458a97f6-cfb6-4314-b786-e16fb5ada002" />
 
-> Almost fixed it, just 1 small istake
+> Almost fixed it, just 1 small mistake
+
+<img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/0404ac71-b664-4fc6-a130-253b965d8a21" />
+
+> Finally finished everything, Holy onshape is hard, but this project has made me learnt the 20% of the things needed to do many things
