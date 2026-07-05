@@ -1,6 +1,6 @@
 # Journal
 
-## Brainstorming (July 2nd)
+## Brainstorming (July 2nd) (1 hour)
 
 Spent around 1 hour brainstorming (with my brother and my friend lmao) about the features that my keyboard will have:
 
@@ -36,7 +36,7 @@ Where and why it is use?
 
 ---
 
-## The physical Layout design (July 2nd)
+## The physical Layout design (July 2nd) (1 hour +, so lets say 1 hour, 10 minutes)
 
 > Aint no way i just spent 1+ hour on something as simple as this bro 😭🥲
 
@@ -57,7 +57,9 @@ Where and why it is use?
 
 ---
 
-## Designing the PCB (July 2nd and 3rd)
+## Designing the PCB (July 2nd, 3rd, and 4th)
+
+### July 2nd (35 minutes)
 
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/8654a598-c914-4b94-8352-ddfbb7e4e727" />
 
@@ -68,6 +70,8 @@ Where and why it is use?
 Its been 32 Minutes
 
 > I Finished it halfway then I realized, I was placing buses and not wires, that's why it wasn't connecting...
+
+### July 3rd (3 hours and 5 minute)
 
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/22f280f1-4e0f-4693-81a2-019550323794" />
 
@@ -97,6 +101,8 @@ Its been 32 Minutes
 
 > Finished routing all the pins
 
+### July 4th (2 hours and 19 minutes)
+
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/aedd19f9-6dc7-430f-b8a3-ecc1a2217e0c" />
 
 > Clocking in for today, Now I will start Connecting the pins
@@ -114,6 +120,10 @@ Its been 32 Minutes
 > Anddd, Fixed all error
 
 ## 3d Model (4th and 5th July)
+
+### July 4th ( 2 hours and 38 minutes)
+
+> Idk when I started onshape, so i took the 2nd picture time, which is `6:35` - `7:18` then added with `9:32` - `11:27`
 
 <img width="1922" height="1368" alt="image" src="https://github.com/user-attachments/assets/26888882-30b5-4956-aed7-5ed6dcb5d3ce" />
 
@@ -143,7 +153,7 @@ Its been 32 Minutes
 
 > 3d model is genuienly the hardest part, imma just rest for now
 
-##
+## July 5th (1 hour + 47 minute)
 
 <img width="2556" height="1597" alt="image" src="https://github.com/user-attachments/assets/273623bd-d332-4793-a54a-a03a16978f61" />
 
