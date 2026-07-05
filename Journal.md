@@ -144,3 +144,7 @@ Its been 32 Minutes
 <img width="2556" height="1597" alt="image" src="https://github.com/user-attachments/assets/273623bd-d332-4793-a54a-a03a16978f61" />
 
 > Gonna restart, since i think i messed up
+
+<img width="2557" height="1597" alt="image" src="https://github.com/user-attachments/assets/458a97f6-cfb6-4314-b786-e16fb5ada002" />
+
+> Almost fixed it, just 1 small istake
