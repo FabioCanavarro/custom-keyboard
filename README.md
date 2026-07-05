@@ -2,6 +2,17 @@
 
 My custom 65% mechanical keyboard designed from scratch for the Hack Club hardware grant.
 
+| Phase | Date(s) | Time Spent |
+| :--- | :---: | ---: |
+| Brainstorming & Ideation | July 2 | 1 hr 0 mins |
+| Physical Layout (KLE) | July 2 | 1 hr 10 mins |
+| PCB Design (KiCad) | July 2 – July 4 | 5 hrs 59 mins |
+| 3D Modeling (Onshape) | July 4 – July 5 | 4 hrs 25 mins |
+| Total Build Time |  | 12 hrs 34 mins |
+
+> Hours spent is based calculated based on the time difference of each screenshots, as normally I take one when starting and when ending.
+> For more specific hours/day tracking, head over to the [Journal dump](journaldump.md) file
+
 ## Specs
 
 - Brain: Raspberry Pi Pico (RP2040)
