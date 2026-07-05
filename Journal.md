@@ -140,3 +140,7 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/3c70f0ed-c79d-4f7c-8ea9-64cff8d02adc" />
 
 > 3d model is genuienly the hardest part, imma just rest for now
+
+<img width="2556" height="1597" alt="image" src="https://github.com/user-attachments/assets/273623bd-d332-4793-a54a-a03a16978f61" />
+
+> Gonna restart, since i think i messed up
