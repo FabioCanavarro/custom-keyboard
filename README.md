@@ -13,6 +13,10 @@ My custom 65% mechanical keyboard designed from scratch for the Hack Club hardwa
 > Hours spent is based calculated based on the time difference of each screenshots, as normally I take one when starting and when ending.
 > For more specific hours/day tracking, head over to the [Journal dump](journaldump.md) file
 
+## Keyboard Layout
+
+<img width="1188" height="463" alt="image" src="https://github.com/user-attachments/assets/bf3cc242-4457-4134-ad38-d62d5d8173f5" />
+
 ## Specs
 
 - Brain: Raspberry Pi Pico (RP2040)
