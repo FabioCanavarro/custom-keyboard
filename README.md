@@ -17,6 +17,26 @@ My custom 65% mechanical keyboard designed from scratch for the Hack Club hardwa
 
 <img width="1188" height="463" alt="image" src="https://github.com/user-attachments/assets/bf3cc242-4457-4134-ad38-d62d5d8173f5" />
 
+## Keyboard Case
+
+### Top View
+
+<img width="1832" height="991" alt="image" src="https://github.com/user-attachments/assets/8ed7ca7e-d78b-4324-8eff-a46c798eaff9" />
+
+### Isometric View
+
+<img width="1997" height="1285" alt="image" src="https://github.com/user-attachments/assets/cdccaf15-314e-4635-9ff7-f4d14c5ca76e" />
+
+## Circuity
+
+### PCB view
+
+<img width="1781" height="1216" alt="image" src="https://github.com/user-attachments/assets/8b9bb740-4016-429f-b014-bc645c83254e" />
+
+### Schematic view
+
+<img width="1935" height="1372" alt="image" src="https://github.com/user-attachments/assets/f3e76e18-473b-4cdf-a1f3-43f0efa12aa0" />
+
 ## Specs
 
 - Brain: Raspberry Pi Pico (RP2040)
