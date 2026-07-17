@@ -1,1 +1,0 @@
-[('U1', 'C:\\Users\\ASUS\\scoop\\apps\\kicad\\10.0.4\\share\\kicad\\3dmodels\\Display.3dshapes\\ER_OLEDM0.91_1x-I2C.step'), ('ENC1', 'C:\\Users\\ASUS\\scoop\\apps\\kicad\\10.0.4\\share\\kicad\\3dmodels\\Rotary_Encoder.3dshapes\\RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.step')]
