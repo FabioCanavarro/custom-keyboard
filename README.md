@@ -31,7 +31,13 @@ My custom 65% mechanical keyboard designed from scratch for the Hack Club hardwa
 
 ### PCB View
 
+### With PCB Art
+
+<img width="1695" height="1197" alt="image" src="https://github.com/user-attachments/assets/8cd16b0a-f5a0-403a-818e-45b9ab07b808" />
+
+### Without PCB Art
 <img width="1781" height="1216" alt="image" src="https://github.com/user-attachments/assets/8b9bb740-4016-429f-b014-bc645c83254e" />
+
 
 ### Schematic View
 
