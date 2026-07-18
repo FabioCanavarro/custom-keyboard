@@ -44,7 +44,7 @@ Where and why it is use?
 
 <img width="1187" height="467" alt="image" src="https://github.com/user-attachments/assets/d7e419f2-c18e-44cb-bcd0-c2af9bd134be" />
 
-> I think I nailed the catppuccin aesthetics, but idk how
+> I think I nailed the initial aesthetics, but idk how
 > Btw I forgot to upload it here the 1st prototype, since I normally send it to my whatsapp for storage... 😅
 
 ### Final draft (?)
