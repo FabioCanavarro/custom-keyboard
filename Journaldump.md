@@ -22,7 +22,7 @@ Where and why it is use?
 
 3. Physical Aesthetics & Switches
 
-- Aesthetic: I am going for a sleeker catppuccin mocha kind of look on my keyboard
+- Aesthetic: I am going for a sleek and smooth kind of look on my keyboard
 
 - Switches: High-quality Tactile/Linear switches (e.g., Boba U4T or similar).
 
@@ -176,6 +176,4 @@ Its been 32 Minutes
 > Based on this slack message, It has been said that we can order our own keycaps sets
 
 So I have decided to go for my a custom keycap set
-
-
 
