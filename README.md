@@ -8,7 +8,9 @@ My custom 65% mechanical keyboard designed from scratch for the Hack Club hardwa
 | Physical Layout (KLE) | July 2 | 1 hr 10 mins |
 | PCB Design (KiCad) | July 2 – July 4 | 5 hrs 59 mins |
 | 3D Modeling (Onshape) | July 4 – July 5 | 4 hrs 25 mins |
-| Total Build Time |  | 12 hrs 34 mins |
+| Total Build Time |  | 12 hrs 34 mins (15 hrs 34 mins, check notes below) |
+
+> Note: Post submit, I realized I sent the wrong bom file so I made the bom file and updated the pcb art, I spent around 3 hours in total? (but I forgot to add photos, so Idk if it can be considered)
 
 > Hours spent is based calculated based on the time difference of each screenshots, as normally I take one when starting and when ending.
 > For more specific hours/day tracking, head over to the [Journal dump](journaldump.md) file
