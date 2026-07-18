@@ -1,4 +1,4 @@
-# Custom Keyboard
+# Fool's Deck
 
 My custom 65% mechanical keyboard designed from scratch for the Hack Club hardware grant.
 
