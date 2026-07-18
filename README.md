@@ -53,8 +53,6 @@ My custom 65% mechanical keyboard designed from scratch for the Hack Club hardwa
 
 - Forehead: 0.91" OLED screen + EC11 Rotary Encoder (knob)
 
-- Colors: Catppuccin Mocha aesthetic
-
 ## What I built
 
 I made a custom 65% layout with a 5-key macro column on the left (for dev shortcuts) and a "forehead" on the top right for an OLED screen and a knob.
