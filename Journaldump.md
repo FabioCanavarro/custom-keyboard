@@ -166,3 +166,16 @@ Its been 32 Minutes
 <img width="2558" height="1598" alt="image" src="https://github.com/user-attachments/assets/0404ac71-b664-4fc6-a130-253b965d8a21" />
 
 > Finally finished everything, Holy onshape is hard, but this project has made me learnt the 20% of the things needed to do many things
+
+## July 17th & 18th (3 hours)
+
+> I kinda forgot to add screenshots oof, all i can do is prob provide screenshots of my search history which is filled with searches on the materials
+
+<img width="897" height="451" alt="image" src="https://github.com/user-attachments/assets/f24d0b3f-5c52-48ca-881f-9c5a60c75466" />
+
+> Based on this slack message, It has been said that we can order our own keycaps sets
+
+So I have decided to go for my a custom keycap set
+
+
+
